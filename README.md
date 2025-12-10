@@ -1,7 +1,5 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Welcome%20to%20my%20profile!&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
-
   # Hi there, I'm Oskar! 👋
   
   ### *Passionate about programming and web technologies*
