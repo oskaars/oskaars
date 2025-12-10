@@ -52,11 +52,12 @@ I am an aspiring developer who loves creating useful web applications. Currently
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=oskaars&show_icons=true&theme=dracula&hide_border=true&locale=en" alt="Oskar's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oskaars&theme=dracula&hide_border=true" alt="GitHub Streak" />
 
   <br/>
+  <br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oskaars&layout=compact&theme=dracula&hide_border=true&lang_count=6" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=oskaars&show_icons=true&theme=dracula&hide_border=true&count_private=true&cache_seconds=1800" alt="Oskar's GitHub Stats" />
 
 </div>
 
