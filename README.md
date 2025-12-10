@@ -48,18 +48,19 @@ I am an aspiring developer who loves creating useful web applications. Currently
 
 ---
 
-## 📈 My GitHub Stats
 
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oskaars&theme=dracula&hide_border=true" alt="GitHub Streak" />
+## 📊 GitHub Stats
 
-  <br/>
-  <br/>
+![Oskaars GitHub stats](https://github-readme-stats.vercel.app/api?username=oskaars&show_icons=true&theme=dracula)
 
-  <img src="https://github-readme-stats.vercel.app/api?username=oskaars&show_icons=true&theme=dracula&hide_border=true&count_private=true&cache_seconds=1800" alt="Oskar's GitHub Stats" />
+<br> <br>
 
-</div>
+## 🔧 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oskaars&layout=compact&theme=dracula)
+
 
 <br />
 
