@@ -1,37 +1,35 @@
 <div align="center">
 
-  # Hi there, I'm Oskar! 👋
-  
-  ### *Passionate about programming and web technologies*
-  
-  ---
-  
-  <p align="center">
-    <a href="https://github.com/oskaars?tab=repositories">
-      <img src="https://img.shields.io/badge/My_Projects-View-blue?style=for-the-badge&logo=github" alt="Projects" />
-    </a>
-    <a href="mailto:oskarskoora@gmail.com">
-      <img src="https://img.shields.io/badge/Contact_Me-Email-red?style=for-the-badge&logo=gmail" alt="Email" />
-    </a>
-  </p>
+  # Oskar
+
+  **Web Developer | Expanding into AI & Machine Learning**
+
+  <a href="mailto:oskarskoora@gmail.com">
+    <img src="https://img.shields.io/badge/Contact_Me-Email-red?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
 
 </div>
 
-## 👨‍💻 About Me
-
-I am an aspiring developer who loves creating useful web applications. Currently, I am expanding my skills in the JavaScript ecosystem.
-
-* 🔭 I’m currently working on: **Node.js applications**
-* 🌱 I’m currently learning: **Advanced Backend concepts & Express.js**
-* ⚡ Recently I started learning AI and machine learning developement - check out my latest project!!!
-
 ---
 
-## 🛠️ Tools & Technologies
+## About
+
+I am a developer focused on building practical, functional applications. My core experience lies in the JavaScript ecosystem, specifically backend development with Node.js and Express.js. Recently, I've started exploring Artificial Intelligence and machine learning concepts to broaden my technical perspective and build smarter algorithms.
+
+## Featured Projects
+
+* **[AI Tic-Tac-Toe](https://github.com/oskaars/ai-tic-tac-toe)**
+  My latest project exploring AI concepts in practice. It's an implementation of the classic Tic-Tac-Toe game featuring an artificial intelligence opponent. Built entirely in Python.
+  
+* **Node.js Web Applications**
+  Various backend solutions built with Node.js, Express, and Handlebars. Focused on server-side rendering, robust RESTful APIs, and clean architecture. *(Check out my repositories below for source code)*.
+
+## Technologies & Tools
 
 <div align="center">
 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   
@@ -41,27 +39,6 @@ I am an aspiring developer who loves creating useful web applications. Currently
 
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
 
-</div>
-
----
-
-
-<div align="center">
-
-## 📊 GitHub Stats
-
-![Oskaars GitHub stats](https://github-readme-stats.vercel.app/api?username=oskaars&show_icons=true&theme=dracula)
-
-<br> <br>
-
-## 🔧 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oskaars&layout=compact&theme=dracula)
-
-
-<br />
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=oskaars&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile Views" />
 </div>
