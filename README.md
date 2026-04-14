@@ -4,10 +4,9 @@
 
   **Web Developer | Expanding into AI & Machine Learning**
 
-  <a href="mailto:oskarskoora@gmail.com">
-    <img src="https://img.shields.io/badge/Contact_Me-Email-red?style=for-the-badge&logo=gmail" alt="Email" />
+<a href="https://www.linkedin.com/in/oskarskoora/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-
 </div>
 
 ---
