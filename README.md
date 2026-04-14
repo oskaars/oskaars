@@ -23,7 +23,7 @@ I am an aspiring developer who loves creating useful web applications. Currently
 
 * 🔭 I’m currently working on: **Node.js applications**
 * 🌱 I’m currently learning: **Advanced Backend concepts & Express.js**
-* ⚡ Fun fact: I love automating daily tasks with code.
+* ⚡ Recently I started learning AI and machine learning developement - check out my latest project!!!
 
 ---
 
