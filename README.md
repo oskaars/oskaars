@@ -21,7 +21,7 @@ I am a developer focused on building practical, functional applications. My core
   This project is a from-scratch implementation of the Deep Q-Learning (DQN) algorithm in Python using the PyTorch library. The goal of the project was to train an Artificial Intelligence agent to independently solve the classic CartPole-v1 environment from Gymnasium.
   
 * **[AI Tic-Tac-Toe](https://github.com/oskaars/ai-tic-tac-toe)**
-  My latest project exploring AI concepts in practice. It's an implementation of the classic Tic-Tac-Toe game featuring an artificial intelligence opponent. Built entirely in Python.
+  My learning project exploring AI concepts in practice. It's an implementation of the classic Tic-Tac-Toe game featuring an artificial intelligence opponent. Built entirely in Python.
   
 * **Node.js Web Applications**
   Various backend solutions built with Node.js, Express, and Handlebars. Focused on server-side rendering, robust RESTful APIs, and clean architecture. *(Check out my repositories below for source code)*.
