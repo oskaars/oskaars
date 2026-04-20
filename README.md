@@ -1,6 +1,6 @@
 <div align="center">
 
-  # Oskar
+  # Oskar Skóra
 
   **Web Developer | Expanding into AI & Machine Learning**
 
@@ -17,6 +17,9 @@ I am a developer focused on building practical, functional applications. My core
 
 ## Featured Projects
 
+* **[AI CartPole](https://github.com/oskaars/cartpole-dqn-pytorch)**
+  This project is a from-scratch implementation of the Deep Q-Learning (DQN) algorithm in Python using the PyTorch library. The goal of the project was to train an Artificial Intelligence agent to independently solve the classic CartPole-v1 environment from Gymnasium.
+  
 * **[AI Tic-Tac-Toe](https://github.com/oskaars/ai-tic-tac-toe)**
   My latest project exploring AI concepts in practice. It's an implementation of the classic Tic-Tac-Toe game featuring an artificial intelligence opponent. Built entirely in Python.
   
