@@ -17,6 +17,9 @@ I am a developer focused on building practical, functional applications. My core
 
 ## Featured Projects
 
+* **[AI MNIST Digit Classifier](https://github.com/oskaars/mnist-digit-classifier)**
+  A from-scratch implementation of a Multilayer Perceptron (MLP) neural network using PyTorch. This Computer Vision project classifies handwritten digits (0-9) from the classic MNIST dataset, featuring automated data pipelines, a supervised learning loop, and an inference testing mode.
+
 * **[AI CartPole](https://github.com/oskaars/cartpole-dqn-pytorch)**
   This project is a from-scratch implementation of the Deep Q-Learning (DQN) algorithm in Python using the PyTorch library. The goal of the project was to train an Artificial Intelligence agent to independently solve the classic CartPole-v1 environment from Gymnasium.
   
@@ -39,7 +42,7 @@ I am a developer focused on building practical, functional applications. My core
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" />
   <img src="https://img.shields.io/badge/Handlebars-000000?style=for-the-badge&logo=handlebars.js&logoColor=white" alt="Handlebars" />
 
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
 
 </div>
